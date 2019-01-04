@@ -10,7 +10,6 @@
 			"LoadingPhase": "Default"
 		}
 	],
-	
 	"Plugins": [
 		{
 			"Name": "ExampleDeviceProfileSelector",
@@ -134,13 +133,10 @@
 		{
 			"Name": "RenderDocPlugin",
 			"Enabled": false
-		}
-		,
+		},
 		{
 			"Name": "OculusVR",
 			"Enabled": false
 		}
 	]
-    
-    
 }
