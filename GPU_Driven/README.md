@@ -15,3 +15,6 @@
 #### Reference 5:
 - 《天涯明月刀》手游中用GPU Driven优化渲染效果
 - https://mp.weixin.qq.com/s/m3e_F5FL3O23FPTGa54wgA
+
+#### Reference From Tix:
+- https://github.com/JinzerTeam/ProjectA/blob/master/GPU_Driven/GPU_Driven_References_Tix.pdf
