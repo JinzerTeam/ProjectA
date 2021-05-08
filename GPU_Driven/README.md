@@ -5,9 +5,10 @@
 - [Siggraph15] GPU-Driven Rendering Pipelines
 - https://zhuanlan.zhihu.com/p/33881505
 - http://advances.realtimerendering.com/s2015/aaltonenhaar_siggraph2015_combined_final_footer_220dpi.pdf
-#### Reference 3:
+#### Reference 3:(重要)
 - [GDC16] Optimizing the Graphics Pipeline with Compute
 - https://zhuanlan.zhihu.com/p/33881861
+- https://github.com/JinzerTeam/ProjectA/blob/master/GPU_Driven/[GDC16]_OptimizingTheGraphics.pdf
 #### Reference 4:
 - gdc18, TerrainRenderingFarCry5
 - https://blog.csdn.net/toughbro/article/details/80363643
